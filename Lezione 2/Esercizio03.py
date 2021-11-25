@@ -10,7 +10,7 @@ def moltiplicazionenumeri():
 
         print ("la moltiplicazione totale è: ", prodottototale)
 
-#moltiplicazionenumeri()
+moltiplicazionenumeri()
 
 
 
